@@ -4,9 +4,9 @@
 1. **Explain the concept of object-oriented programming in simple terms to a complete beginner.**   
 
 * **Aspect Tested:**  
-(1) Nature of tone and language: Is the chatbot providing a friendly and natural tone?  
-(2) Clarity and Simplicity: Is the narrative used for explanation easy to understand for non-technical or beginner-level audience? Is it avoiding technical jargon? Will readers be able to understand the concept?  
-(3) Degree of engagement: Is the reply welcoming and engaging for the user to drive repeat interactions in the future?  
+(1) **Nature of tone and language:** Is the chatbot providing a friendly and natural tone?  
+(2) **Clarity and Simplicity:** Is the narrative used for explanation easy to understand for non-technical or beginner-level audience? Is it avoiding technical jargon? Will readers be able to understand the concept?  
+(3) **Degree of engagement:** Is the reply welcoming and engaging for the user to drive repeat interactions in the future?  
 
 * **Result:**  
 ![Question 1 ](images/answer001.png "Answer 1")
@@ -91,8 +91,8 @@ HAMLET:
 That if you be honest and fair, your honesty should admit no discourse to your beauty.
 
 * **Aspect Tested:**   
-(1) Thoughtful Reflection of mood and tone: Is the reply capturing the existential and philosophical undertones of the text?  
-(2) Effectiveness and exhaustiveness of summarization:  
+(1) **Thoughtful Reflection of mood and tone:** Is the reply capturing the existential and philosophical undertones of the text?  
+(2) **Effectiveness and exhaustiveness of summarization:**  
 (a) Is the reply providing a clear, impactful, and insightful summary without compromising on the richness of the original literature?  
 (b) Is the reply capturing all distinct ideas, points, and themes of the paragraph?  
 
@@ -104,9 +104,9 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 3. **Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.**  
 
 * **Aspect Tested:**  
-(1) Nature of tone and language: Is the chatbot providing a friendly and natural tone?  
-(2) Clarity and Simplicity: Is the narrative used for explanation easy to understand for non-technical or beginner-level audience? Is it avoiding technical jargon? Will readers be able to understand the concept?  
-(3) Degree of engagement: Is the reply welcoming and engaging for the user to drive repeat interactions in the future?    
+(1) **Nature of tone and language:** Is the chatbot providing a friendly and natural tone?  
+(2) **Clarity and Simplicity:** Is the narrative used for explanation easy to understand for non-technical or beginner-level audience? Is it avoiding technical jargon? Will readers be able to understand the concept?  
+(3) **Degree of engagement:** Is the reply welcoming and engaging for the user to drive repeat interactions in the future?    
 
 * **Result:**  
 ![Question 3 ](images/answer003.png "Reply received")
@@ -115,9 +115,9 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 4. **If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?**     
 
 * **Aspect Tested:**  
-(1) Nature of tone and language: Is the chatbot providing a friendly and natural tone?  
-(2) Clarity and Simplicity: Is the narrative used for explanation easy to understand for non-technical or beginner-level audience? Is it avoiding technical jargon? Will readers be able to understand the concept?  
-(3) Degree of engagement: Is the reply welcoming and engaging for the user to drive repeat interactions in the future?  
+(1) **Nature of tone and language:** Is the chatbot providing a friendly and natural tone?  
+(2) **Clarity and Simplicity:** Is the narrative used for explanation easy to understand for non-technical or beginner-level audience? Is it avoiding technical jargon? Will readers be able to understand the concept?  
+(3) **Degree of engagement:** Is the reply welcoming and engaging for the user to drive repeat interactions in the future?  
 
 * **Result:**  
 ![Question 4 ](images/answer004.png "Reply received")
@@ -127,10 +127,10 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 "Tulum is the ultimate escape, where everything feels like a dream. The beaches? Absolutely stunning – soft, powdery white sand meeting crystal-clear turquoise waters. Every morning starts with the sound of waves and a big dose of sunshine. You can chill on the beach all day, but the real magic happens when you head to the cenotes. These natural sinkholes are something else – picture crystal-clear water surrounded by lush jungle. Swimming in them is like stepping into a hidden world, cool and refreshing, with the sunlight cutting through the water like something out of a postcard. Cenote Dos Ojos is a favorite – it’s like snorkeling in an underwater wonderland. Back in Tulum, the vibe is just as amazing. Grab tacos stuffed with fresh fish or sip on a coconut straight from the tree. Exploring the ancient Mayan ruins perched on a cliff overlooking the sea is a must – history with a view, can’t beat that! By night, Tulum turns into a boho dream, with fairy lights, beachside cocktails, and music that seems to blend perfectly with the sound of the waves. Whether it’s adventure, relaxation, or just soaking up the good vibes, Tulum and its cenotes are straight-up unforgettable. 🌴✨"  
 
 * **Aspect Tested:**  
-(1) Distinction between formal and informal language: Is the reply using formal language? If yes, then it indicates the chatbot's ability to differentiate between what constitutes formal and informal language.  
-(2) Ability to write formal / official language: Is the reply using formal, poetic, and eloquent style and vocabulary to rewrite the original text? Is the reply properly using grammar, complete sentences, and structured paragraphs?
-(3) Effectiveness and exhaustiveness of translation: Is the reply clearly translating the emotions, specific details, and facts of the original text into a formal rephrase?
-(4) Strict refrain from informal language: Is the reply strictly avoiding informal language, contractions, slang, and colloquial expressions? Is the reply avoiding the use of emojis, hashtags, and other casual expressions to maintain a serious narrative?
+(1) **Distinction between formal and informal language:** Is the reply using formal language? If yes, then it indicates the chatbot's ability to differentiate between what constitutes formal and informal language.  
+(2) **Ability to write formal / official language:** Is the reply using formal, poetic, and eloquent style and vocabulary to rewrite the original text? Is the reply properly using grammar, complete sentences, and structured paragraphs?  
+(3) **Effectiveness and exhaustiveness of translation:** Is the reply clearly translating the emotions, specific details, and facts of the original text into a formal rephrase?  
+(4) **Strict refrain from informal language:** Is the reply strictly avoiding informal language, contractions, slang, and colloquial expressions? Is the reply avoiding the use of emojis, hashtags, and other casual expressions to maintain a serious narrative?
 
 * **Result:**  
 ![Question 5 ](images/answer00.png "Reply received")
