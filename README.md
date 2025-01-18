@@ -100,6 +100,6 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 (3) Thoughtful Reflection: The chatbot's response captures the existential and philosophical undertones of the text, maintaining the gravity of the subject matter.  
 
 Result:
-![Question 2 ](images/answer002-1.png "Paragaph entered")
-![Question 2 ](images/answer002-2.png "Paragaph entered")
+<!-- ![Question 2 ](images/answer002-1.png "Paragaph entered")
+![Question 2 ](images/answer002-2.png "Paragaph entered") -->
 ![Question 2 ](images/answer002-3.png "Reply received")
