@@ -17,8 +17,8 @@
 (3) **More formal tone:** Updated response seems more formal than before.  
 
 * **Result:**  
-![Question 1 ](images/updated-updated-answer001-1.png "Updated Answer 1")
-![Question 1 ](images/updated-updated-answer001-2.png "Updated Answer 1")
+![Question 1 ](images/updated-answer001-1.png "Updated Answer 1")
+![Question 1 ](images/updated-answer001-2.png "Updated Answer 1")
 
 2. **Read the following paragraph and provide a concise summary of the key points…**     
 The "To be or not to be" Soliloquy
@@ -115,7 +115,7 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 (2) **Detail-oriented:** Updated response provides more details about the emotions of the original text.  
 
 * **Result:**  
-![Question 2 ](images/updated-updated-answer002.png "Updated Answer 2")
+![Question 2 ](images/updated-answer002.png "Updated Answer 2")
 
 3. **Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.**  
 
