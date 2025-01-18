@@ -95,9 +95,10 @@ HAMLET:
 That if you be honest and fair, your honesty should admit no discourse to your beauty.
 
 * Aspect Tested:  
-(1)   Intellectual Curiosity: The user seeks deeper understanding, and the chatbot engages by providing a clear and insightful summary.  
-(2) Collaboration: Both the user and chatbot participate in a literary exploration, suggesting mutual respect for knowledge sharing.  
-(3) Thoughtful Reflection: The chatbot's response captures the existential and philosophical undertones of the text, maintaining the gravity of the subject matter.  
+(1) Thoughtful Reflection of mood and tone: Is the reply capturing the existential and philosophical undertones of the text?  
+(2) Effectiveness and exhaustiveness of summarization:  
+(a) Is the reply providing a clear, impactful, and insightful summary without compromising on the richness of the original literature?  
+(b) Is the reply capturing all distinct ideas, points, and themes of the paragraph?  
 
 Result:
 <!-- ![Question 2 ](images/answer002-1.png "Paragaph entered")
