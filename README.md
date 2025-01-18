@@ -104,9 +104,9 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 3. **Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.**  
 
 * **Aspect Tested:**  
-(1) **Nature of tone and language:** Is the chatbot providing a friendly and natural tone?  
-(2) **Clarity and Simplicity:** Is the narrative used for explanation easy to understand for non-technical or beginner-level audience? Is it avoiding technical jargon? Will readers be able to understand the concept?  
-(3) **Degree of engagement:** Is the reply welcoming and engaging for the user to drive repeat interactions in the future?    
+(1) **Quality of output:** Is the response a well-structured and engaging story?  
+(2) **Accuracy based on guidance in the prompt:** Is the story response adhering to the word limit, and context of the prompt (e.g., robot, friendship, unexpected place)?  
+(3) **Adherence to constraints:** Is the reply crafted within the word limit?   
 
 * **Result:**  
 ![Question 3 ](images/answer003.png "Reply received")
@@ -115,9 +115,9 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 4. **If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?**     
 
 * **Aspect Tested:**  
-(1) **Nature of tone and language:** Is the chatbot providing a friendly and natural tone?  
-(2) **Clarity and Simplicity:** Is the narrative used for explanation easy to understand for non-technical or beginner-level audience? Is it avoiding technical jargon? Will readers be able to understand the concept?  
-(3) **Degree of engagement:** Is the reply welcoming and engaging for the user to drive repeat interactions in the future?  
+(1) **Logical Reasoning Ability:** Is the reply providing a logical explanation about how the chatbot engine approaches the problem statement and deciphers the step-wise approach to resolve the query?   
+(2) **Accuracy:** Is the answer provided factually correct? If yes, then it indicates the chatbot's ability to perform mathematical operations.  
+(3) **Simplicity of solution:** Is the reply providing a simple solution or is it overly complex?
 
 * **Result:**  
 ![Question 4 ](images/answer004.png "Reply received")
