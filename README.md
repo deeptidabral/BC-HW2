@@ -3,7 +3,7 @@
 Please evaluate your system on the following questions:
 
 
-* 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.  
+** * 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.**   
 
 
 * Aspect Tested:  
