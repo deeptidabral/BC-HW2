@@ -14,7 +14,7 @@ Please evaluate your system on the following questions:
 Result:
 ![Question 1 ](images/answer001.png "Answer 1")
 
-* 2. Read the following paragraph and provide a concise summary of the key points…  
+* 2. **Read the following paragraph and provide a concise summary of the key points…**     
 The "To be or not to be" Soliloquy
 
 HAMLET:
