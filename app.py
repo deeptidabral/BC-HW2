@@ -11,23 +11,29 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ChatOpenAI Templates
-system_template = """You are a helpful assistant who always speaks in a pleasant tone!
+# [Advanced Build Edits]: Updated the system template to improve clarity about the role of assistant chatbot
+system_template = """You are an expert assistant operating in a formal context.
+Your primary objective is to deliver clear, concise, and engaging responses. 
+You excel at simplifying complex ideas, summarizing information succinctly, providing step-by-step solutions, creating innovative content, 
+and adopting a professional tone when required. Ensure that all responses are accurate, approachable, succint, and easy to comprehend.
 """
 
 user_template = """{input}
 Think through your response step by step.
 """
 
+# [Advanced Build Edits]: Updated the LLM version and model parameters to fine-tune model outputs to match 
+# specific goals and improve the quality of responses
 
 @cl.on_chat_start  # marks a function that will be executed at the start of a user session
 async def start_chat():
     settings = {
-        "model": "gpt-3.5-turbo",
-        "temperature": 0,
-        "max_tokens": 500,
-        "top_p": 1,
-        "frequency_penalty": 0,
-        "presence_penalty": 0,
+        "model": "gpt-4o-mini", # updated the model type since gpt-4o-mini is the most powerful model available
+        "temperature": 0.3, # lowered the temperature to make the responses more deterministic and accurate
+        "max_tokens": 400, # reduced max_tokens for controlling verbosity and ensuring quick responses
+        "top_p": 0.9, # updated top_p to 0.9 for achieving a good balance between diversity and quality
+        "frequency_penalty": 0, # default value retained for frequency_penalty
+        "presence_penalty": 0, # default value retained for presence_penalty
     }
 
     cl.user_session.set("settings", settings)

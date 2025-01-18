@@ -11,6 +11,15 @@
 * **Result:**  
 ![Question 1 ](images/answer001.png "Answer 1")
 
+* **ADVANCED BUILD RESULTS: REDOING VIBE-CHECK POST EDITS: Changes observed in chatbot's responses:**  
+(1) **Detailed reply covering key concepts:** Updated response is providing concise explanation of all key building blocks of OOP.  
+(2) **Elaborate use of examples:** Updated response is using more examples to explain the concepts of OOP.  
+(3) **More formal tone:** Updated response seems more formal than before.  
+
+* **Result:**  
+![Question 1 ](images/updated-updated-answer001-1.png "Updated Answer 1")
+![Question 1 ](images/updated-updated-answer001-2.png "Updated Answer 1")
+
 2. **Read the following paragraph and provide a concise summary of the key points…**     
 The "To be or not to be" Soliloquy
 
@@ -101,6 +110,13 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 ![Question 2 ](images/answer002-2.png "Paragaph entered") -->
 ![Question 2 ](images/answer002-3.png "Reply received")
 
+* **ADVANCED BUILD RESULTS: REDOING VIBE-CHECK POST EDITS: Changes observed in chatbot's responses:**  
+(1) **Improved structuring and articulation of key points:** Updated response is listing down the key points in a structured manner.  
+(2) **Detail-oriented:** Updated response provides more details about the emotions of the original text.  
+
+* **Result:**  
+![Question 2 ](images/updated-updated-answer002.png "Updated Answer 2")
+
 3. **Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.**  
 
 * **Aspect Tested:**  
@@ -111,6 +127,12 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 * **Result:**  
 ![Question 3 ](images/answer003.png "Reply received")
 
+* **ADVANCED BUILD RESULTS: REDOING VIBE-CHECK POST EDITS: Changes observed in chatbot's responses:**  
+(1) **Improved story telling:** Updated response has more details and is more engaging by talking about the emotional landscape of the characters.  
+(2) **Poetic language:** Updated response has more emotional subtext than before.  
+
+* **Result:**  
+![Question 3 ](images/updated-answer003.png "Updated Answer 3")  
 
 4. **If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?**     
 
@@ -121,6 +143,12 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 
 * **Result:**  
 ![Question 4 ](images/answer004.png "Reply received")
+
+* **ADVANCED BUILD RESULTS: REDOING VIBE-CHECK POST EDITS: Changes observed in chatbot's responses:**  
+(1) **Stepwise explanation for added clarity but verbose:** Updated response specifies each step in detail but given the simplicity of the problem, it is a little verbose.  
+
+* **Result:**  
+![Question 4 ](images/updated-answer004.png "Updated Answer 4")  
 
 
 5. **Rewrite the following paragraph in a professional, formal tone.**  
@@ -134,3 +162,9 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 
 * **Result:**  
 ![Question 5 ](images/answer00.png "Reply received")
+
+* **ADVANCED BUILD RESULTS: REDOING VIBE-CHECK POST EDITS: Changes observed in chatbot's responses:**  
+(1) **Factual language:** Updated response is more formal than before.  
+
+* **Result:**  
+![Question 5 ](images/updated-answer005.png "Updated Answer 5")  
