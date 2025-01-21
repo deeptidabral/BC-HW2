@@ -168,3 +168,23 @@ That if you be honest and fair, your honesty should admit no discourse to your b
 
 * **Result:**  
 ![Question 5 ](images/updated-answer005.png "Updated Answer 5")  
+
+<div style="background-color: #E6E6FA; padding: 10px; border-radius: 5px;">
+<span style="color: black;">
+
+🧑‍🤝‍🧑❓ Discussion Question #1:
+What are some limitations of vibe checking as an evaluation tool?
+
+(1) Effort-intensive process: Improving output quality can be time-consuming since it is subjective and not quantitative / measurable. 
+
+(2) Inconsistency and bias:	Subjective judgments can lead to bias and hence, inconsistent evaluations.  
+
+(3) Lacks standardization:	Lack of standardized criteria for evaluation further augment inconsistency.  
+
+(4) Room for error:	Manual vibe-checking can lead to missing out on some errors since it cannot ensure 100% fact-checking of outputs.  
+
+(5) Lacks scalability:	Possible for limited outputs and use cases but cannot scale seamlessly to implement enterprise-grade GenAI.
+</span>
+</div>
+
+
